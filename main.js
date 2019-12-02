@@ -57,3 +57,5 @@ var user = {
 user.getName()
 
 console.log(window.name)
+
+//master branch was added
